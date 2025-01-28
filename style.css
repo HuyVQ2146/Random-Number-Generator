@@ -7,15 +7,28 @@ body{
     padding: 5px 25px;
     border-radius: 5px;
 }
+#container{
+    display: inline-block;
+    background-color: bisque;
+    border-radius: 5px;   
+    padding: 5px;
+}
+.div{
+    margin : 0;
+    padding:0;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+}
 .Label{
     font-size: 3em;
 }
-#l1{
+#d1{
     background-color: aqua;
 }
-#l2{
+#d2{
     background-color: yellow;
 }
-#l3{
+#d3{
     background-color: lime;
 }
