@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana;
+    text-align: center;
+}
+#btn{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+.Label{
+    font-size: 3em;
+}
+#l1{
+    background-color: aqua;
+}
+#l2{
+    background-color: yellow;
+}
+#l3{
+    background-color: lime;
+}
